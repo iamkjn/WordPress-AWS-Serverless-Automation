@@ -1,0 +1,14 @@
+# AWS CLI artifacts
+.aws/
+# Log files
+*.log
+# OS generated files
+.DS_Store
+.vscode/
+# Python artifacts
+__pycache__/
+*.pyc
+# Ignore the generated zip file after moving it to cloudformation/
+ec2_scheduler.zip
+# Temporary files
+*.tmp
