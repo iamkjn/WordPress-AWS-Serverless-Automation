@@ -152,3 +152,13 @@ aws cloudformation delete-stack --stack-name WordPressDevTest --region YOUR_AWS_
 aws cloudformation delete-stack --stack-name WordPressLiveBlog --region YOUR_AWS_REGION
 ```
 (Remember to replace YOUR_AWS_REGION)
+
+### Why Work With Me?
+I deliver architectural solutions that bridge technical vision with business goals, enabling organizations to innovate faster and operate more efficiently. My focus is on creating architectures that are not only powerful today but are also adaptable for the challenges of tomorrow.
+
+### Contact:
+Feel free to connect with me to discuss architectural challenges or opportunities:
+
+LinkedIn: [https://www.linkedin.com/in/krunalnayak]
+
+Email: [Krunalnayak49@gmail.com]
